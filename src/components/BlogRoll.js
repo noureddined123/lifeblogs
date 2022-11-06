@@ -50,7 +50,7 @@ class BlogRoll extends React.Component {
                 {ClipText(post.frontmatter.description, 70)}
                 </p>
                 <Link className="btn" to={post.fields.slug}>
-                    Keep Reading →
+                    Lees Verder →
                   </Link>
               </article>
             </div>
