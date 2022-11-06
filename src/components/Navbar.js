@@ -41,7 +41,7 @@ const Navbar = class extends React.Component {
         <div className="container flex-around">
           <div className="navbar-brand logo">
             <Link to="/" className="navbar-item" title="Logo">
-              <h1>Brand | Logo</h1>
+              <img src="lifeblogs.jpg" alt="lifestyle Blogs" width="103" height="75" />
             </Link>
               <GitHubButton href="https://github.com/simarmannsingh">Follow</GitHubButton>
             {/* Hamburger menu */}
