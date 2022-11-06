@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import GitHubButton from 'react-github-btn'
+import logojpg from '../img/lifeblogs.jpg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -41,7 +42,7 @@ const Navbar = class extends React.Component {
         <div className="container flex-around">
           <div className="navbar-brand logo">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src="../img/lifeblogs.jpg" alt="lifestyle Blogs" width="103" height="75" />
+              <img src={logojpg} alt="lifestyle Blogs" width="103" height="75" />
             </Link>
             {/* Hamburger menu */}
             <div
