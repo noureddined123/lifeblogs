@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Alex Murphy
+title: Lifestyle Blogs
 image: /img/home-jumbotron.jpg
-heading: Alex Murphy
-subheading: Developer with a flair for design
+heading: Lifestyle Blogs
+subheading: Lifestyle Blogs uit Nederland
 ---
