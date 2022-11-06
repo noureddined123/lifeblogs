@@ -1,7 +1,7 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About us
+title: Over Ons
 ---
 # Hello there
 My name is **Lorem ipsum**. I am some dummy text, born in the Divided States of Neomatrixburg. I grew up on the streets of keyboard, gained initial experience while working under the supervision of some stupid developer and have been trying to grow into a full fledged page. So far, I've reached the level of an honourable paragraph with some 50-60 words.
