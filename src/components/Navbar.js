@@ -41,7 +41,7 @@ const Navbar = class extends React.Component {
         <div className="container flex-around">
           <div className="navbar-brand logo">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src="lifeblogs.jpg" alt="lifestyle Blogs" width="103" height="75" />
+              <img src="../img/lifeblogs.jpg" alt="lifestyle Blogs" width="103" height="75" />
             </Link>
             {/* Hamburger menu */}
             <div
