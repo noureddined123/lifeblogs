@@ -6,7 +6,7 @@ description: A person has to work with an individual to organize a workout or
   fitness routine. The trainer will help a person to achieve your goal with
   utmost care.
 featuredpost: true
-featuredimage: /img/image1.png
+featuredimage: /img/pt-3.jpg
 tags:
   - personaltraining
   - sport
