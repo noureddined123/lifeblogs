@@ -6,7 +6,7 @@ description: Aren't you bored of the normal exercise for losing weight? So why
   won't you try any sport for your weight loss start? Boxing is a fantastic way
   to get started or continue on your weight-loss goal.
 featuredpost: true
-featuredimage: /img/image1.png
+featuredimage: /img/boxing.jpg
 tags:
   - health
   - sport
