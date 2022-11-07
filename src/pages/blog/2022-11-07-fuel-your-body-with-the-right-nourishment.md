@@ -6,7 +6,7 @@ description: Have you ever thought about fitness for yourself? Why not start
   looking after your health to be fit? Let's start your fitness training with
   the best nutrition, food, and sports.
 featuredpost: true
-featuredimage: /img/image3.png
+featuredimage: /img/healthyfood.jpg
 tags:
   - voeding
   - sport
