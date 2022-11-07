@@ -5,7 +5,7 @@ date: 2022-10-12T08:04:27.362Z
 description: Kickboxing is a type of boxing that involves punches and kicks. It
   is an excellent cardiovascular exercise and aids in fitness control.
 featuredpost: true
-featuredimage: /img/image3.png
+featuredimage: /img/kickboxing.jpg
 ---
 ## The art of Kickboxing:
 
