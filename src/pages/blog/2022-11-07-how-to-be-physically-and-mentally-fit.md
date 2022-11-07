@@ -5,7 +5,7 @@ date: 2022-07-24T08:09:21.015Z
 description: CrossFit can help you lose weight, strengthen muscles, flexibility,
   and improve your cardiovascular capacity.
 featuredpost: true
-featuredimage: /img/image1.png
+featuredimage: /img/crossfit.jpg
 tags:
   - crossfit
   - sport
