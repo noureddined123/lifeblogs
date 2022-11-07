@@ -5,7 +5,7 @@ date: 2022-09-21T08:06:09.932Z
 description: "It is one of the most fascinating and rewarding jobs you will ever
   have. Getting a personal training certification is the most prominent step. "
 featuredpost: true
-featuredimage: /img/image3.png
+featuredimage: /img/pt-1.jpg
 ---
 ## NASM Certification Personal Trainers 
 
