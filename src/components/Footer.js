@@ -5,8 +5,10 @@ import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
 
+const currentYear = new Date().getFullYear();
+
 const Footer = class extends React.Component {
-  const currentYear = new Date().getFullYear();
+  
 
   render() {
     return (
