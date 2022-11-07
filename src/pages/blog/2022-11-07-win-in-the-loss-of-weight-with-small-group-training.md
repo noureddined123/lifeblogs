@@ -6,7 +6,7 @@ description: The focus of small and large group training is different. The
   potential for attention, observation, and dedication is more valuable to a
   small group of training than a large group.
 featuredpost: true
-featuredimage: /img/image1.png
+featuredimage: /img/smallgrouptraining.jpg
 tags:
   - sport
   - health
