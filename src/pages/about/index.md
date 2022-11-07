@@ -3,6 +3,8 @@ templateKey: about-page
 path: /about
 title: Over Ons
 ---
+![Over Lifestyle Blogs](/img/lifestyle.jpg "Over Lifestyle Blogs")
+
 # Beste lezer
 
 Als je aan een lifestyle Blogs denkt, zou je je een blog kunnen voorstellen die uitsluitend is gewijd aan mode en beauty. Er zijn echter zoveel andere aspecten van het leven die door een lifestyleblog kunnen worden behandeld! Met inhoud over lifestyle-onderwerpen, van mode en beauty tot koken en reizen, gaan deze blogs niet alleen over mode en beauty. Een lifestyle blog is een blog over jouw persoonlijke levensstijl. Het gaat om je persoonlijke ervaring met de wereld. Het gaat om je persoonlijke gedachten en gevoelens over wat je doet. Het gaat om jouw reis.
