@@ -6,7 +6,7 @@ description: "HIIT is a type of interval exercise or training. It involves
   alternating brief bursts of strong physical exertion with shorter bursts of
   less intensive physical exertion. "
 featuredpost: true
-featuredimage: /img/image3.png
+featuredimage: /img/hiit.jpg
 ---
 ## Know the beneficial aspects of HIIT
 
