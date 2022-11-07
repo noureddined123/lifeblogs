@@ -6,6 +6,8 @@ import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
+  const currentYear = new Date().getFullYear();
+
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
@@ -18,7 +20,7 @@ const Footer = class extends React.Component {
         </div> */}
         <div className="content has-text-centered has-background-black has-text-white-ter">
         
-          <p style={{paddingBottom:'1em', color:'#7c7c7c'}}>Copyright © lifeblogs.nl | 2022</p>
+          <p style={{paddingBottom:'1em', color:'#7c7c7c'}}>Copyright © lifeblogs.nl | {currentYear} </p>
         </div>
       </footer>
     )
