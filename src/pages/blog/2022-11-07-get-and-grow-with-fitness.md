@@ -6,7 +6,7 @@ description: "Investment is necessary to lead a passive life. Likewise, some of
   us invest money, and some of us invest our time in molding ourselves into
   glowing, powerful, and peaceful minds. "
 featuredpost: true
-featuredimage: /img/image1.png
+featuredimage: /img/fitness.jpg
 ---
 ## IMPRESSION OF PHYSICAL ACTIVITY AND REMUNERATIONS
 
