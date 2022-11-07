@@ -6,7 +6,7 @@ description: "Healthy living is a wealthy living. Fitness Keeps Life Simple.
   People should always prioritize her/his health. A healthy body and a happy
   mind lead to success, happiness, and achievement. "
 featuredpost: true
-featuredimage: /img/healthyfood.jpg
+featuredimage: /img/pt-2.jpg
 tags:
   - voeding
   - health
